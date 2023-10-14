@@ -1,0 +1,165 @@
+body{
+   background-image: url(./imgs/prp.png);
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size:cover;
+   color: black;
+
+}
+.head{
+    color: black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: -2px;
+    text-decoration: solid;
+  
+
+}
+.shootbutton{
+    border-style: solid;
+ 
+    border-color: purple;
+    margin-left: 498px;
+    margin-right: 505px;
+   border-width: 0px 0px 5px 0px;
+    margin-bottom: 10px;
+margin-top: -2px;
+    cursor: pointer;
+}
+.center{
+    margin-top: 23px;
+    text-align: center;
+    right: 40px;
+height: 232px;
+ 
+    width:279px;
+    
+    border-color: rgb(221, 188, 231);
+    border-radius: 10px;
+    border-width: 4px;
+
+}
+
+.image
+{
+    height: 195px;
+    width: 277px;
+    margin-top: -6px;
+    border: 5px;
+    
+    border-radius: 5px;
+    
+}
+#anchor{
+  text-decoration:solid;
+  
+    margin-bottom:20px ;
+    font-size: 22px;
+   font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-weight: inset;
+    color:black
+}
+.bday{
+    text-align: center;
+    right: 40px;
+    margin-top: 30px;
+    border-style: groove;
+    border-radius: 10px;
+    border-width: 4px;
+height: 233px;
+border-color: rgb(221, 188, 231); ;
+   margin-left: 523px;
+    width:277px;
+}
+.birth{
+    margin-top: -4px;
+    height:193px;
+    width: 272px;
+    border-radius: 5px;   
+}
+.anchorr{
+    text-decoration:solid;
+    margin-bottom:20px ;
+    font-size: 23px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+    font-weight: bold;
+    color:rgb(117, 37, 133);
+}
+ul{
+    padding: 10px;
+   background-color: rgb(48, 5, 48);
+   text-align:right;
+   margin-left: 0px;
+   margin-top: -6px;
+
+}
+li{
+    display: inline-block;
+    padding: 3px;
+    margin-right: 3px;
+   font-size: 15px;
+}
+.one{
+    text-decoration: solid;
+    font-size: 20px;
+    color: rgb(191, 151, 191);
+    margin-left: 30px;
+    padding: 3px; 
+   
+  
+}
+.imgs{
+    height:520px ;
+    width:700px;
+}
+
+
+.port{
+height:510px;
+width:900px;
+}
+#portraitimage{
+    margin-left: 190px;
+}
+.portraittext{
+    border-style: solid;
+ 
+    border-color: purple;
+    margin-left: 498px;
+    margin-right: 505px;
+   border-width: 0px 0px 5px 0px;
+    margin-bottom: 10px;
+margin-top: 39px;
+    cursor: pointer;
+}
+#logo{
+    margin-left: -22px;
+   float: left;
+    font-size: 35px;
+    margin-top: -13px;
+   
+    }
+    .pf{
+       
+        text-decoration:none;
+        color:rgb(117, 37, 133);
+    }
+.wildshoot{
+    border-style: solid;
+    border-color: purple;
+    margin-left: 498px;
+    margin-right: 505px;
+   border-width: 0px 0px 5px 0px;
+    margin-bottom: 10px;
+margin-top: 39px;
+    cursor: pointer;
+    text-decoration: none;
+    }
+#wildimg{
+    margin-left: 190px;
+}
+
